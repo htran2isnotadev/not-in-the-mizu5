@@ -1,0 +1,4 @@
+	<ActorFrame Name="Mizu5"><children>
+		<Layer Type="Quad" />
+		<Layer File="die" />
+	</children></ActorFrame>
