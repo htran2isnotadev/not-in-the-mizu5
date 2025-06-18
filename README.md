@@ -1,6 +1,6 @@
 # A Mizu5 death overlay for Not In The Groove (NotITG).
 
-A dumb idea I made when the Mizu5 incident was happening (go to [this video](https://youtu.be/tTGkESKhhkQ) for a short overview).
+A dumb idea I made when the Mizu5 incident was happening (go to [this video](https://youtu.be/tTGkESKhhkQ) for a summary of this hell of a chaos).
 
 ## Installation
 
