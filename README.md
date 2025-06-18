@@ -4,7 +4,7 @@ A dumb idea I made when the Mizu5 incident was happening (go to [this video](htt
 
 ## Installation
 
-Clone this repository and copy the three folders into Simply Love theme's root folder. After that edit Screens/Overlay/Death/default.xml and add "<Layer File="Mizu5" />" inside the ActorFrame dictionary.
+Clone this repository and copy the three folders into Simply Love theme's root folder. After that edit Screens/Overlay/Death/default.xml and add `<Layer File="Mizu5" />` inside the ActorFrame dictionary.
 
 ## Credits
 Official Akiyama Mizuki's "失われてしまったもの" four-star card art from the game Project Sekai: Colorful Stage ft. Hatsune Miku.
